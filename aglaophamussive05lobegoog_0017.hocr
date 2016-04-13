@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aglaophamussive05lobegoog_0017.png"; bbox 0 0 2873 4897; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 255 1487 2454 1682">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 255 1487 2454 1682">
+     <span class='ocr_line' id='line_1_1' title="bbox 255 1487 2454 1682; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 255 1568 1155 1682; x_wconf 79' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_2' title='bbox 1346 1487 2454 1682; x_wconf 59' lang='lat' dir='ltr'>13111M1JS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1701 1890 1768 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1701 1890 1768 1897">
+     <span class='ocr_line' id='line_1_2' title="bbox 1701 1890 1768 1897; baseline -0.015 0"><span class='ocrx_word' id='word_1_3' title='bbox 1701 1890 1768 1897; x_wconf 52' lang='lat' dir='ltr'><strong>a——ae</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1024 1881 1682 1910">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1024 1881 1682 1910">
+     <span class='ocr_line' id='line_1_3' title="bbox 1024 1881 1682 1910; baseline 0 2987"><span class='ocrx_word' id='word_1_4' title='bbox 1024 1881 1682 1910; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 830 2132 1932 2219">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 830 2132 1932 2219">
+     <span class='ocr_line' id='line_1_4' title="bbox 830 2132 1932 2219; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 830 2132 1932 2219; x_wconf 80' lang='lat' dir='ltr'><strong>ELEUSINIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
